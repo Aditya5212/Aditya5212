@@ -58,6 +58,14 @@
 
 ---
 
+## ⚡ Technologies and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,go,cpp,nodejs,nestjs,fastapi,react,docker,aws,azure,postgres,mongodb,redis,git,linux&perline=9" />
+</p>
+
+---
+
 ## 🧩 Featured Projects
 
 ### 🧠 Super Agent (Deep Research Engine)
